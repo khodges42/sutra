@@ -1,7 +1,7 @@
 # sutra
 Decentralized Encrypted Chat Utility.
 
-
+```
 
    |                 _______                         |
    |                /:.::::.\ ____                   |
@@ -50,3 +50,4 @@ Decentralized Encrypted Chat Utility.
    |          ..:.........`--'.............          |
    |            .......:.......:..........           |
    |                 ..........gaysec2044            |
+```
